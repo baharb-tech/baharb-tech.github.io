@@ -1,0 +1,138 @@
+---
+title: "Handout: Summary Statistics and Their Importance"
+author: "baharalsadat bahadori - 400897377"
+format: pdf
+fontsize: 12pt
+geometry: margin=1in
+---
+
+# 1. Introduction
+
+Summary statistics provide a quick overview of a dataset.\
+They help identify typical values, variation, and potential errors before deeper analysis.\
+They form the foundation for understanding and preparing data in R.
+
+------------------------------------------------------------------------
+
+# 2. Why Summary Statistics Matter
+
+-   Understand central values\
+-   See how spread out the data is\
+-   Detect outliers and missing values\
+-   Identify wrong or inconsistent entries\
+-   Understand distribution shape\
+-   Prepare data for modeling and further analysis
+
+------------------------------------------------------------------------
+
+# 3. Types of Summary Statistics
+
+## A. Measures of Central Tendency
+
+-   Mean\
+-   Median\
+-   Mode
+
+## B. Measures of Spread
+
+-   Range\
+-   Variance\
+-   Standard deviation
+
+## C. Distribution Shape
+
+-   Skewness\
+-   Kurtosis
+
+------------------------------------------------------------------------
+
+# 4. Student Exercise
+
+Dataset: **45, 60, 75, 80, 90**
+
+Tasks: - Find the mean\
+- Find the median\
+- Find the standard deviation\
+- Identify the minimum and maximum\
+- Identify the quartiles\
+- Write one sentence describing the spread of the data
+
+Questions: - What does the mean tell you?\
+- Are the values close together or spread apart?\
+- What does the minimum and maximum represent?
+
+------------------------------------------------------------------------
+
+# 5. Solution (Summary)
+
+-   Mean = 70\
+-   Median = 75\
+-   Standard deviation ≈ 17\
+-   Minimum = 45\
+-   Maximum = 90\
+-   Interpretation:\
+    The data shows moderate spread and increases gradually.
+
+------------------------------------------------------------------------
+
+# 6. Conclusion
+
+Summary statistics are essential for understanding the patterns in a dataset.\
+They reveal the typical value, the variation, and the shape of the distribution.\
+These insights make the analysis clearer and more reliable.
+
+------------------------------------------------------------------------
+
+# 7. References
+
+Wickham, H., & Grolemund, G. (2017). *R for Data Science*.\
+Kabacoff, R. (2022). *R in Action* (3rd ed.).\
+R Core Team. (2024). *R: A Language and Environment for Statistical Computing*.
+
+------------------------------------------------------------------------
+
+[GitHub Repository](https://github.com/baharb-tech/baharb-tech.github.io)
+Link : https://github.com/baharb-tech/baharb-tech.github.io
+
+------------------------------------------------------------------------
+
+
+
+# 8. Affidavit of Originality
+
+I hereby affirm that this submitted paper was authored unaided and solely by me.\
+No other sources than those in the reference list were used.\
+Parts of this paper, including tables and figures, that have been taken either verbatim or analogously from other works have in each case been properly cited with regard to their origin and authorship.
+
+This paper, either in parts or in its entirety, in the same or similar form, has not been submitted to any other examination board and has not been published.
+
+I acknowledge that the university may use plagiarism detection software to check my submission.\
+I agree to cooperate with any investigation of suspected plagiarism and to provide additional information or evidence requested by the university.
+
+------------------------------------------------------------------------
+
+# 9. Checklist (Presentation & Handout Requirements)
+
+-   □ The handout contains 3–5 pages of text.\
+-   □ The submission contains the **Quarto file** of the handout.\
+-   □ The submission contains the **Quarto file** of the presentation.\
+-   □ The submission contains the **HTML file** of the handout.\
+-   □ The submission contains the **HTML file** of the presentation.\
+-   □ The submission contains the **PDF file** of the handout.\
+-   □ The submission contains the **PDF file** of the presentation.\
+-   □ The title page of both files includes name, email, matriculation number.\
+-   □ The handout contains a bibliography in **APA style**.\
+-   □ Either the presentation or the handout contains **R code**.\
+-   □ The filled-out Affidavit is included.\
+-   □ GitHub link with published handout and presentation is provided.\
+-   □ In group work, each student’s contribution is clearly defined (if applicable).
+
+------------------------------------------------------------------------
+
+# 10. Signature
+
+**Name:** baharalsadat bahadori\
+**Date:** 26 November 2025\
+**Place:** Zündorf\
+
+------------------------------------------------------------------------
